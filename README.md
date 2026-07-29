@@ -17,7 +17,7 @@ A nostalgic recreation of the classic arcade game Pong, built entirely using Pyt
 ## Installation
 1. Clone the repository:
    `ash
-   git clone https://github.com/yourusername/pong-game.git
+   git clone https://github.com/MoayadAlshehry/pong-game.git
    cd pong-game
    `
 2. No external dependencies are required.
