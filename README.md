@@ -33,6 +33,7 @@ python main.py
 - paddle.py: Paddle class and movement logic.
 - all.py: Ball class and physics logic.
 - score_board.py: Scoreboard class and rendering logic.
+- ball.py: Source module/asset.
 
 ## Requirements
 - Python 3.9+
