@@ -15,8 +15,8 @@ Two-player local multiplayer Pong arcade game created with Turtle graphics.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/pong-game.git
-   cd pong-game
+git clone https://github.com/MoayadAlshehry/pong-game.git
+cd pong-game
 ```
 
 ## Usage
