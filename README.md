@@ -1,47 +1,42 @@
-# Classic Pong Game
+# Classic Arcade Pong Game
 
 ## Description
-A nostalgic recreation of the classic arcade game Pong, built entirely using Python's built-in Turtle graphics library. It features two-player local multiplayer, collision detection, and score tracking.
+Two-player local multiplayer Pong arcade game created with Turtle graphics.
 
 ## Features
-- Two-player control scheme (W/S for Player 1, Up/Down arrows for Player 2).
-- Dynamic ball physics (bouncing off walls and paddles).
-- Incremental ball speed increase after successful paddle hits to raise difficulty.
-- Live scoreboard that tracks points for both sides.
+- 2-player keyboard controls
+- Wall/paddle collision physics
+- Live scoreboard
 
 ## Technologies
 - Python 3.x
-- 	urtle module for rendering graphics and handling inputs.
-- Object-Oriented Programming (OOP) architecture.
+- turtle
 
 ## Installation
 1. Clone the repository:
-   ````bash
+   ```bash
    git clone https://github.com/MoayadAlshehry/pong-game.git
    cd pong-game
-   `
-2. No external dependencies are required.
+   ```
 
 ## Usage
-Run the game script to start playing:
-````bash
+Run the application:
+```bash
 python main.py
-`
+```
 
 ## Project Structure
-- main.py: Game loop and screen setup.
-- paddle.py: Paddle class and movement logic.
-- all.py: Ball class and physics logic.
-- score_board.py: Scoreboard class and rendering logic.
-- ball.py: Source module/asset.
+- `main.py`: Source module/asset.
+- `ball.py`: Source module/asset.
+- `paddle.py`: Source module/asset.
+- `score_board.py`: Source module/asset.
+- `LICENSE`: MIT License.
 
 ## Requirements
 - Python 3.9+
 
 ## Future Improvements
-- Add a single-player mode with an AI opponent.
-- Include sound effects for bounces and scoring.
-- Add a start menu and game over screen.
+- Maintenance and enhancement updates.
 
 ## License
 This project is licensed under the MIT License.
